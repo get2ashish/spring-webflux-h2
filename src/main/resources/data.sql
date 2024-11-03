@@ -1,0 +1,2 @@
+insert into employee(first_name,last_name,department,salary) values ('John','Doe','BFSI',1200.50);
+insert into employee(first_name,last_name,department,salary) values ('Optimus','Prime','Cybertron',5000.00);
