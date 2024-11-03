@@ -28,6 +28,8 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testImplementation 'io.projectreactor:reactor-test'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+	//Graph QL
+	implementation 'org.springframework.boot:spring-boot-starter-graphql'
 }
 
 tasks.named('test') {
